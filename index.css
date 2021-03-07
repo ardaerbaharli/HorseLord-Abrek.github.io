@@ -1,3 +1,9 @@
-p {color: gray; text-align: center; border: 3px solid orange;}
+p {color: gray; text-align: center; border: 2px solid orange;}
 h1 {color: gray; text-align: center; border: 5px solid purple;}
 h2 {color: gray; text-align: center; border: 3px solid purple;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
